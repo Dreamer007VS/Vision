@@ -1,0 +1,40 @@
+name: newsappflutter
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.1
+  webview_flutter: ^2.0.2
+  cached_network_image:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_native_splash: ^1.2.0
+
+flutter_native_splash:
+
+  android: true
+  ios: true
+  web: true
+
+  color: "#020039"
+  image: assets/splash.png
+
+  android_gravity: center
+  ios_content_mode: center
+  web_image_mode: center
+
+
+flutter:
+  uses-material-design: true
