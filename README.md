@@ -23,7 +23,7 @@ A Convenient News App built with Flutter. In this app, there is a Home page, whi
                     Dark mode
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/Vision/Vision/FLUTTER_NewsApp-master/screenshots//01.png"   width="200">
+                    <img src="https://raw.githubusercontent.com/Vision/Vision/FLUTTER_NewsApp-master/screenshots/01.png"   width="200">
                 </td>
                 <td  style="border: 1px solid black ;">
                     Light Mode
@@ -35,7 +35,7 @@ A Convenient News App built with Flutter. In this app, there is a Home page, whi
                     Countries
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/03.png"   width="200">
+                    <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/Vision/FLUTTER_NewsApp-master/screenshots/03.png"   width="200">
                 </td>
             </tr>
             <tr>
@@ -43,7 +43,7 @@ A Convenient News App built with Flutter. In this app, there is a Home page, whi
                     Category
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/04.png"   width="200">
+                    <img src="//raw.githubusercontent.com/Dreamer007VS/Vision/Vision/FLUTTER_NewsApp-master/screenshots/04.png"   width="200">
                 </td>
                <td  style="border: 1px solid black ;">
                     News Channels 
