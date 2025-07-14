@@ -23,13 +23,13 @@ A Convenient News App built with Flutter. In this app, there is a Home page, whi
                     Dark mode
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="C:/Users/HP/Downloads/01.png"   width="200">
+                    <img src="https://raw.githubusercontent.com/Vision/Vision/FLUTTER_NewsApp-master/screenshots//01.png"   width="200">
                 </td>
                 <td  style="border: 1px solid black ;">
                     Light Mode
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/02.png"   width="200">
+                    <img src="https://raw.githubusercontent.com/Vision/Vision/FLUTTER_NewsApp-master/screenshots/02.png"   width="200">
                 </td>
                  <td  style="border: 1px solid black ;">
                     Countries
