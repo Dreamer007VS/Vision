@@ -44,13 +44,13 @@ A Convenient News App built with Flutter. In this app, there is a Home page, whi
             <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/04.png" width="200">
         </td>
         <td style="border: 1px solid black;">
-            News Channels 
+            News Channels (category)
         </td>
         <td style="border: 1px solid black;">
             <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/05.png" width="200">
         </td>
         <td style="border: 1px solid black;">
-            Additional Feature
+            News Page
         </td>
         <td style="border: 1px solid black;">
             <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/06.png" width="200">
