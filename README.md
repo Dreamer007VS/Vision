@@ -21,13 +21,13 @@ A Convenient News App built with Flutter. In this app, there is a Home page, whi
             Dark mode
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/FLUTTER_NewsApp-master/screenshots/01.png" width="200">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/01.png" width="200">
         </td>
         <td style="border: 1px solid black;">
             Light Mode
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/FLUTTER_NewsApp-master/screenshots/02.png" width="200">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/master/FLUTTER_NewsApp-master/screenshots/02.png" width="200">
         </td>
         <td style="border: 1px solid black;">
             Countries
@@ -57,7 +57,6 @@ A Convenient News App built with Flutter. In this app, there is a Home page, whi
         </td>
     </tr>
 </table>
-
 ## Pull Requests
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
