@@ -1,6 +1,4 @@
-## News App Flutter [![GitHub stars](https://img.shields.io/github/stars/j-j-gajjar/FLUTTER_NewsApp?style=social)](https://github.com/login?return_to=%2Fj-j-gajjar%FLUTTER_NewsApp) ![GitHub forks](https://img.shields.io/github/forks/j-j-gajjar/FLUTTER_NewsApp?style=social) 
-
-A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories range from tech to entertainment. You can choose the news category displayed on the category page. The app provides a smooth and amazing design with gestures effect and a smooth experience with the android and iOS platforms.
+A Convenient News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories range from tech to entertainment. You can choose the news category displayed on the category page. The app provides a smooth and amazing design with gestures effect and a smooth experience with the android and iOS platforms.
 
  ## Todos
 
@@ -25,7 +23,7 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
                     Dark mode
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/01.png"   width="200">
+                    <img src="C:/Users/HP/Downloads/01.png"   width="200">
                 </td>
                 <td  style="border: 1px solid black ;">
                     Light Mode
